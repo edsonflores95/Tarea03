@@ -47,4 +47,9 @@
     <string name="task2_name">Tarea 2</string>
     <string name="button_addTask">Añadir tarea</string>
     <string name="input_date_label">04 de abril del 2024</string>
+    <string name="inputDate_label">Fecha</string>
+    <string name="button_done_label">Listo</string>
+    <string name="new_taskName_label">Nueva Tarea:</string>
+    <string name="input_notes_label">Notas:</string>
+    <string name="input_taskName_label">Tarea</string>
 </resources>
